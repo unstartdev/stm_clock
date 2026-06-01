@@ -4,4 +4,4 @@
 
 ## Brief
 
-A pretty such course homework.
+A pretty sucx course homework.
